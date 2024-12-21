@@ -7,7 +7,6 @@ This project focuses on predicting house prices in Boston using Machine Learning
 ## Project Overview  
 
 - Built a **Boston House Price Prediction Model** using **XGBRegressor**.  
-- Dataset: [Boston Housing Dataset](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv).  
 - Gained hands-on experience in applying fundamental ML concepts and evaluating model performance.  
 
 ---
