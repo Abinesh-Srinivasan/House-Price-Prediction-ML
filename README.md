@@ -1,4 +1,5 @@
-# House Price Prediction  
+# House Price Prediction
+##Linear Regression 
 
 This project focuses on predicting house prices in Boston using Machine Learning. It serves as a foundational step in my journey to understanding and implementing ML concepts.  
 
