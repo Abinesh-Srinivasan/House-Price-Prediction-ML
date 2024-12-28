@@ -43,7 +43,7 @@ This project focuses on predicting house prices in Boston using Machine Learning
 
 ## Links  
 
-- **Dataset**: [Boston Housing Dataset](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv).  
+- **Dataset**: [Boston Housing Datasets](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv).  
 
 ---
 
